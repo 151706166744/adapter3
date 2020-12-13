@@ -1,0 +1,8 @@
+include ':UIBestPractice'
+include ':UIBestPratice'
+include ':RecyclerView'
+include ':ListViewTest'
+include ':UICustomViews'
+include ':UILayoutTest'
+include ':UIWidgetTest'
+rootProject.name = "UIwidgettest"
